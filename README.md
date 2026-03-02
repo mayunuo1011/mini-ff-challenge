@@ -1,4 +1,4 @@
-This is UoE Social Data Science Mini Future Family Coding Challenge 2025
+This is University of Edinburgh(UoE) Social Data Science Mini Future Family Coding Challenge 2025
 
 The project aims to predict the academic outcome(GPA) using supervised machine learning models.
 
